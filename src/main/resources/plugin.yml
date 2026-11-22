@@ -1,0 +1,4 @@
+name: EndermanChaos
+version: 1.0.0
+main: me.artem.endermanchaos.Main
+api-version: '1.21'
